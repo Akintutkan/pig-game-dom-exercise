@@ -1,6 +1,6 @@
-[PigGameDomExercise](https://pig-game-dom-exercise.vercel.app/)
+[PigGameDomExercise](https://pig-game-dom-exercise.vercel.app/) With Cervel
 
-[PigGameDomExercise](https://codepen.io/akintutkan/pen/WNywPLR) With Codepen
+[PigGameDomExercise With CodePen](https://codepen.io/akintutkan/pen/WNywPLR)
 
 If you want to try it,
 
